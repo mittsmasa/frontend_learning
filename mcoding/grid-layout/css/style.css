@@ -38,6 +38,7 @@ a:active {
 .item .image {
   width: 100%;
   display: block;
+  height: 109px;
 }
 .item .category {
   margin: 15px 9px 10px;
@@ -91,4 +92,16 @@ a:active {
 .item-maindish,
 .item-maindish .category::before {
   border-color: #c1efff;
+}
+.item-m {
+  width: 364px;
+}
+.item-m .image {
+  height: 146px;
+}
+.item-l {
+  width: 732px;
+}
+.item-l .image {
+  height: 403px;
 }
